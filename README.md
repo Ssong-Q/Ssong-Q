@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 🏛 Education ... Bachelor of Mechatronics Engineering (Grade: 4.19)
 - 🗂 Experience & Career: ... 
   4 years working experience as a technical salesperson for a company offering a certificate & testing service(2019-2023) <br>
-  1 year internship program: coordinator working at SSR FA in Reno and Intel corp. in Nevada and Portland, Oregon(2017-2018) <br>
+  1 year internship program: coordinator working at SSR FA in Reno and Intel corp. site in Portland, Oregon(2017-2018) <br>
   1 year working holiday in Toronto, Canada
