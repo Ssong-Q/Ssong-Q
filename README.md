@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... improving developing skills to secure a position as a front-end engineer
 - 🫵 I'm currently focusing on ... switching my career
-- 🌱 I’m currently learning ... javascript and Typescript
+- 🌱 I’m currently learning ... javascript, Python, and Typescript
 - 👯 I’m looking to collaborate on ... webpage development
 - 📫 How to reach me: ... skdmlrh12@gmail.com
 - 🏛 Education ... Bachelor of Mechatronics Engineering
