@@ -61,17 +61,19 @@
   <h6>Frontend | UI/UX | Product/Project Management </h6>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsong-Q&count_bg=%23C8B63D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
+
+<!-- 
 ![Ssong-Q's github stats](https://github-readme-stats.vercel.app/api?username=Ssong-Q&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ssong-Q&layout=compact&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ssong-Q&layout=compact&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
 <!-- ### Hi I'm Kyukyoung 👋
 
