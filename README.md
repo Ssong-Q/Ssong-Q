@@ -62,6 +62,8 @@
   <h6>겸손하고 솔직하고자 하며, 꾸준히 배우고 성장하는 삶을 지향합니다.</h6>
   <h4>Interest</h4>
   <h6>Frontend | UI/UX | Product/Project Management </h6>
+  <h4>How to reach me</h4>
+  <h6>skdmlrh12@gmail.com </h6>
 </div>
 
 <br/>
